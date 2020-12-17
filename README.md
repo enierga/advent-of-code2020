@@ -4,3 +4,4 @@ Language used per day listed below: <br />
 <br />
 Day 1. Rust<br />
 Day 2. Go<br />
+Day 3. Ruby<br />
